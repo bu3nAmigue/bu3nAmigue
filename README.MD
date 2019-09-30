@@ -4,7 +4,7 @@ Artistic Project based in Buenos Aires
 
 ![IMAGE ALT TEXT HERE](Media/photo1.png)
 
-## TODO
+## TO DO
 
 - [ ] Structured Visuals
 - [ ] FoxDot -> OSC -> Hydra
