@@ -13,3 +13,4 @@ Artistic Project based in Buenos Aires
 - [x] Add real instruments playing to songs (Guitar/Keyboard/Bass)
 - [ ] Make cool single
 - [ ] Make cool video
+- [ ] Defining buen amigo essence and topics of interest
