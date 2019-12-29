@@ -1,3 +1,3 @@
 # Music
 
-[Here](https://github.com/mathigatti/EP) is our EP in progress hosted.
+[Here](https://github.com/mathigatti/EP) is our EP.
