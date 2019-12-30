@@ -1,5 +1,10 @@
-# Bu3n Amigue
+# Scripts and GIFs
 
-Artistic Project based in Buenos Aires
+## Scripts
+  Generate visuals using:
 
-![IMAGE ALT TEXT HERE](Media/photo1.jpg)
+  ### Hydra
+    https://github.com/ojack/hydra
+
+## GIFs
+- [GIFs Repository](https://drive.google.com/drive/folders/1ySKj7NdmihdNTYJ5SiPAUKY_FPcBrgez?usp=sharing)
