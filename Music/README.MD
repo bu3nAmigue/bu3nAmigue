@@ -1,3 +1,3 @@
 # Music
 
-[Here](https://github.com/mathigatti/EP) is our EP.
+You can find our songs and music related code [here](https://github.com/bu3nAmigue/EP).

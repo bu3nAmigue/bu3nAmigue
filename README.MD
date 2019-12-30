@@ -2,4 +2,4 @@
 
 Artistic Project based in Buenos Aires
 
-![IMAGE ALT TEXT HERE](Media/photo1.png)
+![IMAGE ALT TEXT HERE](Media/photo1.jpg)
