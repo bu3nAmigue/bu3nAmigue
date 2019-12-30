@@ -1,4 +1,4 @@
-# Scripts and GIFs
+# Visualization Tools
 
 ## Scripts
   Generate visuals using:
